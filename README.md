@@ -12,4 +12,4 @@ ADD HERE THE REFERENCE
 Will be added later
 
 ## Data
-The annotated data (post level) can be found as as a csv file under "parler_annotated_data.csv".
+The annotated data (post level) can be found as a csv file under "parler_annotated_data.csv".
